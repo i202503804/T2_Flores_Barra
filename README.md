@@ -9,3 +9,5 @@ Evaluación Continua 2 - Control de versiones con Git y GitHub.
 ## Control de cambios
 Gestión y control de cambios en el working directory y staging area.
 
+## Gestión de ramas
+Trabajo realizado en la rama independiente feature-bocanegra con la incorporación de la clase Java de control de versión.
