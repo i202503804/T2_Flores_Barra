@@ -1,0 +1,1 @@
+Observación T2: Pruebas de control de staging y restauración de cambios en Git.

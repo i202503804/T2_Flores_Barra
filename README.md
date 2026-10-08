@@ -5,3 +5,7 @@
 
 ## Evidencia T2
 Evaluación Continua 2 - Control de versiones con Git y GitHub.
+
+## Control de cambios
+Gestión y control de cambios en el working directory y staging area.
+
